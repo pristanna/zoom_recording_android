@@ -12,7 +12,7 @@ Useful for recording Zoom session on Android without Pro version and without Clo
 **Record Zoom session**
 
 * Open Audio recorder
-* Open Screen recorder 
+* Open Screen recorder and in the Settings set up the Sound source to System sound
 * Start Audio and Screen recording at the same time
 * Start Zoom session
 * At the end of the Zoom session stop both, Audio recorder and Screen recorder at the same time. 
