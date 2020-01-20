@@ -28,8 +28,8 @@ sudo apt install ffmpeg
 
 **Process the output files to get one video containing screen, internal and external sound recording**
 * run  zoom_recording_android.sh script from the folder where you have:
-..* Output from Screen Recorder named screen.mp4
-..* Output from Audio Recorder named audio.wav
+  * Output from Screen Recorder named screen.mp4
+  * Output from Audio Recorder named audio.wav
 
 ```
 ./zoom_recording_processer.sh
